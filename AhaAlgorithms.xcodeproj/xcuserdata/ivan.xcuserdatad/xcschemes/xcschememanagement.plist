@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>1_1_BucketSort.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>1_2_BubbleSort.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>AhaAlgorithms.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +23,16 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>2C23A6F11C2BE043006DD10C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2C23A6FF1C2BE144006DD10C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2CB0633F1C2BED770076BF44</key>
 		<dict>
 			<key>primary</key>
 			<true/>
