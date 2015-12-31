@@ -14,6 +14,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>1_3_QuickSort.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>AhaAlgorithms.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -33,6 +38,11 @@
 			<true/>
 		</dict>
 		<key>2CB0633F1C2BED770076BF44</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2CB0634A1C2CCD980076BF44</key>
 		<dict>
 			<key>primary</key>
 			<true/>
